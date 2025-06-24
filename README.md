@@ -59,7 +59,7 @@ sudoku.com
 
 ```
 sudoku/
-├─ sudoku.asm         → Full source code
+├─ project.asm         → Full source code
 ├─ README.md          → This file
 ```
 
